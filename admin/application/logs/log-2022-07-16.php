@@ -1,0 +1,19 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-07-16 10:41:54 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 10:44:05 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 10:46:16 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 10:46:16 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 10:48:27 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 10:50:38 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 10:52:49 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 10:52:49 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 10:55:01 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 11:11:11 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 11:12:56 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 17:46:21 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 17:48:32 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 17:51:47 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 17:53:58 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 17:57:22 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2022-07-16 18:00:47 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting

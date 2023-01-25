@@ -1,0 +1,10 @@
+{
+  "name": "volgo/b2bclassified",
+  "description": "b2b classified app",
+  "type": "project",
+  "require": {
+      "phpmailer/phpmailer": "~6.0",
+	  "paypal/rest-api-sdk-php": "*",
+    "aliyuncs/oss-sdk-php": "^2.3"
+  }
+}

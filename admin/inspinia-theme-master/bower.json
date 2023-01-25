@@ -1,0 +1,24 @@
+{
+  "name": "inspinia-theme",
+  "version": "2.6.0",
+  "description": "Inspinia - Responsive Admin Theme",
+  "homepage": "https://github.com/jimmlog/inspinia-theme",
+  "keywords": [
+    "inspinia",
+    "theme",
+    "2.6.0",
+    "assets"
+  ],
+  "authors": [
+    "Jimm Logan <jimmloga@gmail.com>"
+  ],
+  "main": "css/style.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

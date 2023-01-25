@@ -1,0 +1,36 @@
+<?php
+
+if (!defined('__BASE_URL__'))
+    define('__BASE_URL__', 'https://www.volgopoint.com/b2bclassified/');
+
+if (!defined('__IMG_BASE_URL__'))
+    define('__IMG_BASE_URL__', 'https://volgopoint.oss-me-east-1.aliyuncs.com/');
+
+if (!defined('__CACHE_PATH__'))
+    define('__CACHE_PATH__', '/var/www/html/b2bclassified/application/cache');
+
+if (!defined('__BACKEND_URL__'))
+    define('__BACKEND_URL__', 'https://www.volgopoint.com/b2bclassified/admin/');
+
+if (!defined('__BACKEND_PATH__'))
+    define('__BACKEND_PATH__', '/var/www/html/b2bclassified/admin/');
+
+if (!defined('__MAX_CACHE_TIME__'))
+	define('__MAX_CACHE_TIME__', 259200);
+
+if (!defined('__DEFAULT_TIMEZONE__'))
+	define('__DEFAULT_TIMEZONE__', 'Asia/Karachi');
+
+if (!defined('__ADMIN_EMAIL__'))
+	define('__ADMIN_EMAIL__', "info@volgopoint.com");
+	
+if (!defined('__DB_NAME__'))
+	define('__DB_NAME__', "b2bclassified_new");
+
+if (!defined('__DB_USER__'))
+	define('__DB_USER__', "root");
+
+if (!defined('__DB_PASSSWORD__'))
+	define('__DB_PASSSWORD__', "DevTeam@123");
+
+

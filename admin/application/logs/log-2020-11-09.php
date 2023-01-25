@@ -1,0 +1,21 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-09 21:04:44 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:05:04 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:05:44 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:06:15 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:06:34 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:06:56 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:07:11 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:07:30 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:07:44 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:08:33 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:09:21 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:09:37 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:09:47 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:10:02 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:10:28 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:10:40 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:11:03 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:11:16 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2020-11-09 21:11:26 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting

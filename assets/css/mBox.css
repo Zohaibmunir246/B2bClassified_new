@@ -1,0 +1,296 @@
+.mBox, #mBox img {
+    cursor: pointer;
+    max-width: 100%;
+    height: auto;
+}
+
+ #mBox {
+    display: none;
+    position: absolute;
+    top: 25px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    z-index: 101;
+    text-align: center;
+}
+
+@media (min-width: 576px) {
+    #mBox {
+        
+    }
+}
+@media (min-width: 768px) {
+    #mBox {
+        
+    }
+}
+@media (min-width: 992px) {
+    #mBox {
+    background: #fff;
+    border-radius: 4px;
+    }
+}
+#mBox {
+    width: 92%;
+    background: #fff;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    top: 15px;
+    min-height: 572px;
+}
+@media (min-width: 1200px) {
+    #mBox {
+       width: 1000px; 
+    }
+}
+#mBox .mBox-current {
+    position: relative;
+    background-color: #FFF;
+    border-radius: 4px;
+    float: right;
+    width: 75%;
+    min-height: 460px;
+    overflow: hidden;
+}
+.mSide ul.user-info {
+    text-align: left;
+}
+.mSide{
+    width: 24%;
+    float: left;
+    margin-right: 1%;
+    background-color: #fff;
+    border-radius: 4px;
+}
+#mBox .mBox-current img {
+    padding: 3px;
+    border-radius: 4px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+    margin-top: 35px;
+    max-height: calc(100% - (20px + 30px));
+}
+#mBox .mBox-content {
+    margin-top: 6px;
+    position: relative;
+    text-align: center;
+    padding: 3px 0px;
+    background-color: #fff;
+    overflow: hidden;
+    border-radius: 4px;
+    width: 75%;
+    float: right;
+    font-family: fontawesome;
+    font-style: normal;
+    height: 112px;
+}
+
+#mBox .mBox-images {
+    position: relative;
+    display: block;
+    width: 100%;
+    white-space: nowrap;
+} 
+#mBox .mBox-image {
+    position: relative;
+    display: inline-block;
+    height: 80px;
+    overflow: hidden;
+    width: 125px !important;
+}
+#mBox .mBox-image img {
+    position: relative;
+    display: inline-block;
+    border-radius: 3px;
+    padding: 0px 3px;
+    max-height: 100%;
+    max-width: 100%;
+}
+#mBox .mBox-navigation-count {
+    position: absolute;
+    bottom: 0;
+    text-align: left;
+    width: 100%;
+    z-index: 103;
+    color: #FFF;
+    margin-bottom: 0;
+    padding: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+#mBox .mBox-navigation-txt {
+    font-style: italic;
+    background-color: #00000040;
+    padding: .4em .8em;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: none;
+}
+#mBox .mBox-current-image-title {
+    float: right;
+}
+#mBox .mBox-thumbnail-pagination {
+    font-size: .55em;
+}
+#mBox .mBox-thumbnail-pagination i {
+    color: #bfbfbf;
+    margin-right: .5em;
+    cursor: pointer;
+    font-style: normal;
+    font-size: 12px;
+}
+#mBox .mBox-thumbnail-pagination i.active {
+    color: #565a5a;
+}
+#mBox .mBox-navigation {
+    z-index: 999;
+    display: block;
+    position: absolute;
+    top: 50%;
+    transform: translate(0 ,-50%);
+    width: 100%;
+    text-align: center;
+    padding: 0 .6em;
+    color: #FFF;
+}
+#mBox .mBox-navigation .fas {
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.8em;
+    text-shadow: 0px 0 6px rgba(0, 0, 0, 0.45);
+    font-style: normal;
+}
+.fa-chevron-circle-right:before {
+    content: "\f138";
+    position: absolute;
+    right: 25px;
+    font-family: fontawesome;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,.1);
+}
+.fa-chevron-circle-left:before {
+    content: "\f137";
+    position: absolute;
+    left: 25px;
+    font-family: fontawesome;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,.1);
+}
+
+#mBox .mBox-next {
+    float: right;
+}
+
+#mBox .mBox-previous {
+    float: left;
+}
+
+#mBox .mBox-close {
+    font-size: 1.6em;
+    text-shadow: none;
+    color: #FFF;
+    line-height: .5;
+    opacity: 1;
+    cursor: pointer;
+}
+
+#mBox button.mBox-close {
+    font-size: 3.2em;
+    position: absolute;
+    right: -28px;
+    top: 0;
+    border: 0;
+    padding: 0;
+    background: transparent;
+}
+.mSide .cvr_mBox{
+    display: none;
+}
+
+/*! CSS Used from: https://d1kghlu0e6mwpv.cloudfront.net/assets/desktop/css/os-postview-eeabe226f42e86bcfba5baacc23933f91580222543.css */
+::-webkit-input-placeholder{color:#ccc!important;}
+::-moz-placeholder{color:#ccc!important;}
+:-ms-input-placeholder{color:#ccc!important;}
+.pt15{padding-top:15px;}
+.pr15{padding-left:15px;}
+.pl15{padding-right:15px;}
+.mt15{margin-top:15px;}
+.mb15{margin-bottom:15px;}
+.ml15{margin-right:15px;}
+.vMiddle{vertical-align:middle;}
+a{color:#4091d2;text-decoration:none;}
+a:hover{text-decoration:none;cursor:pointer;}
+.inline{display:inline-block;}
+.bold{font-weight:700;}
+::-webkit-input-placeholder{color:#a9a9a9;font-size:12px;}
+::-moz-placeholder{color:#a9a9a9;font-size:12px;}
+:-ms-input-placeholder{color:#a9a9a9;font-size:12px;}
+.postSideForm span {
+    font-size: 15px;
+    font-weight: 800;
+}
+.dtl_loc{font-size: 14px;}
+.postSideForm{background-color:#fff;border-radius:2px;}
+.postSideForm {display: none;}
+.mSide .postSideForm {display: block;border: 1px solid #b9b9b9;}
+.mSide .sidebar-priceBox p .detail-price {
+    font-size: 18px;
+}
+.mSide .side-bar-left{
+    padding: 10px 0px 10px 10px;
+}
+.mSide_l{
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: left;
+    float: left;
+    padding-left: 0px;
+    font-size: 18px;
+    font-weight: 800;
+}
+.mSide .loc-point{
+    display: none;
+}
+.mSide .sidebar-priceBox{
+    margin-bottom: 15px;
+}
+#mBox .mBox-close:hover, #mBox .mBox-close:focus {
+    color: #c5c5c5;
+    text-decoration: none;
+    opacity: .75;
+}
+.body-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    background-color: #000000d6;
+    position: fixed;
+    overflow-y: auto;
+}
+
+#mBox .hide {
+    display: none!important;
+}
+
+#mBox .small {
+    font-size: .8em;
+}
+
+#mBox p {
+    padding: 0;
+    margin: 0;
+}

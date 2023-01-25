@@ -1,0 +1,22 @@
+{"categories":[{"id":2,"name":"bike","slug":"bike","type":"icon","image_icon":"fa fa-bike","type_of_image_icon":"icon","image_icon_mobile":"fa fa-bike","parent_ids":"2","description":"bike","category_type":"category","created_at":"2019-07-16 20:33:24"}],"makes":[],"models":[]}
+
+
+{"categories": [{"id": 1, "name": "aaabbbccc", "slug": "aaabbbccc", "type": "image", "created_at": "2019-07-16 23:00:06", "image_icon": "", "parent_ids": "uncategorised", "description": "sdfsf", "category_type": "", "image_icon_mobile": "", "type_of_image_icon": "icon"}]}
+
+
+/*$data = [
+				'categories' => [
+
+				],
+				'makes'	=> [
+
+				],
+				'models' => [
+
+				]
+			];
+
+			file_put_contents('json-data.txt', json_encode($data));*/
+
+
+

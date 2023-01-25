@@ -1,0 +1,31 @@
+{
+  "name": "jimmlog/inspinia-theme",
+  "description": "Inspinia - Responsive Admin Theme",
+  "version": "2.6.0",
+  "keywords": [
+        "Inspinia",
+        "theme",
+        "2.6.0",
+        "assets"
+  ],
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "type": "library",
+  "homepage": "https://github.com/jimmlog/inspinia-theme",
+  "authors": [
+    {
+      "name": "Jimm Logan",
+      "email": "jimmloga@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/jimmlog/inspinia-theme?state=open",
+    "source": "https://github.com/jimmlog/inspinia-theme"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.6.x-dev"
+    }
+  }
+}

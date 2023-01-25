@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "b2bclassified",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com-volgo:alishanvolgo/b2b-classified-frontend-development.git"
+  },
+  "author": "alishan",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^4.0.1"
+  },
+  "dependencies": {
+    "grunt-contrib-cssmin": "^3.0.0"
+  }
+}

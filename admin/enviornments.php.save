@@ -1,0 +1,15 @@
+<?php
+
+if (!defined('__BASE_URL__'	define('__BASE_URL__', 'http://192.168.100.64/mohsin/admin/');
+
+if (!defined('__CACHE_PATH__'))
+	define('__CACHE_PATH__', '/var/www/html/mohsin/frontend/application/cache/');
+
+if (!defined('__FRONT_END_CACHE_PATH__'))
+	define('__FRONT_END_CACHE_PATH__', '/var/www/html/mohsin/frontend/application/cache/');
+
+if (!defined('__MAX_CACHE_TIME__'))
+	define('__MAX_CACHE_TIME__', 259200);
+
+if (!defined('__DEFAULT_TIMEZONE__'))
+	define('__DEFAULT_TIMEZONE__', 'Asia/Karachi');

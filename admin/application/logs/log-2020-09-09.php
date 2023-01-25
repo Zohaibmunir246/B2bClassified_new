@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-09-09 18:11:15 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:12:38 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:22:17 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:22:50 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:23:35 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:23:52 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:24:22 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:24:49 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:25:17 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:25:34 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:26:15 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:26:33 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:28:37 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:28:54 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:29:33 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:29:50 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:30:17 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:30:32 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:31:05 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:34:14 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:34:36 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:35:28 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:35:43 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:36:10 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:36:26 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:54:47 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:55:34 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
+ERROR - 2020-09-09 18:55:54 --> Severity: Notice --> Undefined offset: 0 /var/www/html/b2bclassified/admin/application/models/Listing_Model.php 640
